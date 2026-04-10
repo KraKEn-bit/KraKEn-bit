@@ -29,7 +29,6 @@
 
 ---
 
-## 🐍 &nbsp;`$ watch contrib --snake`
 
 <div align="center">
 

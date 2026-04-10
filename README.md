@@ -17,13 +17,13 @@
 
 ### 🏗️ Learn by Building
 
-<img align="right" src="https://media1.tenor.com/m/WqfS1l90rVMAAAAC/bungou-stray-dogs-bsd.gif" width="220" />
+<img align="right" src="https://media.tenor.com/7Bv_K-1Y7mAAAAAC/bungou-stray-dogs-bsd.gif" width="220" />
 
-I'm a 2nd-year CSE student at **IUT** who believes the best way to understand a system is to build it. From neural networks to 3D worlds, I love the process of turning raw ideas into functional reality.
+I’m a Computer Science & Engineering student driven by a simple philosophy: learn by building. I find the most meaning in projects where I can take a raw idea, experiment with its possibilities, and transform it into a functional system.
 
-- 🧠 **AI/ML:** Exploring architectures and the "why" behind models.
-- 🎨 **Creative:** Merging UE5 logic with visual storytelling in Blender.
-- 🚀 **Robotics:** Sub-Executive (R&D) at IUT Robotics Society.
+My core focus is Artificial Intelligence and Machine Learning, where I enjoy exploring the why and how behind models through Python, C++, and DSA. 
+
+At the same time, I embrace versatility. I spend time in Unreal Engine 5 and Blender, combining logic with creativity to solve technical and visual challenges.
 
 <br/>
 

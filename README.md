@@ -1,13 +1,13 @@
 # Hi there, I'm Rafsan Kabir 👋 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KraKEn-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=050a0e&title_color=00d4ff&icon_color=7c3aed&text_color=e2e8f0&cache_buster=1" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KraKEn-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a0e&title_color=00d4ff&text_color=e2e8f0&cache_buster=1" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KraKEn-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=050a0e&title_color=00d4ff&icon_color=7c3aed&text_color=e2e8f0" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KraKEn-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a0e&title_color=00d4ff&text_color=e2e8f0" height="170"/>
 </div>
 
-###  My Philosophy: Learn by Building
+### My Philosophy: Learn by Building
 
-<img align="right" src="https://media.tenor.com/7Bv_K-1Y7mAAAAAC/bungou-stray-dogs-bsd.gif" width="220" />
+<img align="right" src="Bungo Stray Dogs Dazai GIF.gif" width="220" />
 
 I am a 2nd-year CSE student at **IUT** driven by a simple idea: the best way to understand a system is to build it from scratch. Whether it’s architecting a neural network or sculpting a 3D world, I love the process of turning raw ideas into functional reality.
 
@@ -39,8 +39,6 @@ I am a 2nd-year CSE student at **IUT** driven by a simple idea: the best way to 
 
 ---
 
-### 🐍 &nbsp;`$ watch contrib --snake`
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KraKEn-bit/Snakye_Wakye/output/github-contribution-grid-snake-dark.svg">
@@ -50,11 +48,6 @@ I am a 2nd-year CSE student at **IUT** driven by a simple idea: the best way to 
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KraKEn-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=050a0e&title_color=00d4ff&icon_color=7c3aed&text_color=e2e8f0" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KraKEn-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a0e&title_color=00d4ff&text_color=e2e8f0" height="170"/>
-</div>
 
 <div align="center">
   <br>

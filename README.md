@@ -17,7 +17,7 @@
 
 ### 🏗️ Learn by Building
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R3M3R6bm9uamR6Z3R3M3R6bm9uamR6Z3R3M3R6bm9uaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v2p6pS3G4VjG0/giphy.gif" width="220" />
+<img align="right" src="https://media1.tenor.com/m/WqfS1l90rVMAAAAC/bungou-stray-dogs-bsd.gif" width="220" />
 
 I'm a 2nd-year CSE student at **IUT** who believes the best way to understand a system is to build it. From neural networks to 3D worlds, I love the process of turning raw ideas into functional reality.
 

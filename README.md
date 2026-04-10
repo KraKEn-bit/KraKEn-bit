@@ -1,18 +1,19 @@
 # Hi there, I'm Rafsan Kabir 👋 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KraKEn-bit&theme=react-dark&bg_color=050a0e&color=00d4ff&line=7c3aed&point=10b981&area=true&area_color=7c3aed&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KraKEn-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=050a0e&title_color=00d4ff&icon_color=7c3aed&text_color=e2e8f0&cache_buster=1" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KraKEn-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a0e&title_color=00d4ff&text_color=e2e8f0&cache_buster=1" height="170"/>
 </div>
 
-### 🏗️ My Philosophy: Learn by Building
+###  My Philosophy: Learn by Building
 
 <img align="right" src="https://media.tenor.com/7Bv_K-1Y7mAAAAAC/bungou-stray-dogs-bsd.gif" width="220" />
 
 I am a 2nd-year CSE student at **IUT** driven by a simple idea: the best way to understand a system is to build it from scratch. Whether it’s architecting a neural network or sculpting a 3D world, I love the process of turning raw ideas into functional reality.
 
-- 🧠 **The Logic Side:** Deep Diving into AI/ML architectures, competitive programming in C++, and refining the "why" behind every model.
-- 🎨 **The Creative Side:** Exploring the limits of Unreal Engine 5 and Blender, merging technical logic with visual storytelling.
-- 🚀 **Currently:** Serving as a **Sub-Executive (R&D)** at the IUT Robotics Society.
+-  **The Logic Side:** Deep Diving into AI/ML architectures, competitive programming in C++, and refining the "why" behind every model.
+-  **The Creative Side:** Exploring the limits of Unreal Engine 5 and Blender, merging technical logic with visual storytelling.
+-  **Currently:** Serving as a **Sub-Executive (R&D)** at the IUT Robotics Society.
 
 <br clear="right"/>
 
@@ -35,14 +36,6 @@ I am a 2nd-year CSE student at **IUT** driven by a simple idea: the best way to 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
----
-
-### 📂 Featured Build Log
-* 🌪️ **[Cyclone Tracking](https://github.com/KraKEn-bit/Cyclone_Tracking_Model)**: Predicting track paths for the Bay of Bengal using deep architectures.
-* ⚔️ **[Project Halo](https://github.com/KraKEn-bit/DarkSoulsTypo_Game)**: Exploring soulslike mechanics and typing-based combat in UE 5.4.
-* 👁️ **[Digit Recognition](https://github.com/KraKEn-bit/Digit-Recognition-System)**: A real-time MNIST classifier—refining the fundamentals of CV.
-* 🔐 **[Cryptography](https://github.com/KraKEn-bit/Cryptography)**: A deep dive into the math behind secure communication.
 
 ---
 

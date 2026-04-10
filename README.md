@@ -18,17 +18,17 @@ I am a 2nd-year CSE student at **IUT** driven by a simple idea: the best way to 
 
 ---
 
-### 🛠️ &nbsp;`$ ls tech_stack/`
+###  &nbsp;`$ ls tech_stack/`
 
 <div align="center">
 
-#### 🧪 The Researcher's Kit (AI & ML)
+#### Researcher's Kit (AI & ML)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-#### 🎮 The Builder's Kit (Design & Dev)
+#### 🎮 Builder's Kit (Design & Dev)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)

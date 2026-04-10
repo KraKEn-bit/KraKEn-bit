@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## ⚙️ &nbsp;`tech_stack/`
+## ⚙️ &nbsp;`tech_stack`
 
 <div align="center">
 

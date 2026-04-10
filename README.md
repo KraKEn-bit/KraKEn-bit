@@ -1,8 +1,8 @@
 # Hi 👋! My name is Rafsan Kabir, and I'm a CSE Student from 🇧🇩
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KraKEn-bit&show_icons=true&theme=dracula&hide_border=true&count_private=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c3aed&text_color=e2e8f0" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KraKEn-bit&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=e2e8f0" width="38%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KraKEn-bit&show_icons=true&theme=dracula&hide_border=true&count_private=true&bg_color=0D1117&title_color=00d4ff&icon_color=7c3aed&text_color=e2e8f0" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KraKEn-bit&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=e2e8f0" width="38%" alt="Top Languages" />
 </div>
 
 <br/>
@@ -17,12 +17,12 @@
 
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="60%" valign="top">
       
 ### 🏗️ Learn by Building
 I'm a 2nd-year CSE student at **IUT** who believes the best way to understand a system is to build it. From neural networks to 3D worlds, I love the process of turning raw ideas into functional reality.
 
-- 🧠 **AI/ML:** Exploring architectures and the "why" behind the models.
+- 🧠 **AI/ML:** Exploring architectures and the "why" behind models.
 - 🎨 **Creative:** Merging UE5 logic with visual storytelling in Blender.
 - 🚀 **Robotics:** Sub-Executive (R&D) at IUT Robotics Society.
 
@@ -33,8 +33,8 @@ I'm a 2nd-year CSE student at **IUT** who believes the best way to understand a 
 [![ArtStation](https://img.shields.io/badge/ARTSTATION-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/krak-en)
 
     </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R3M3R6bm9uamR6Z3R3M3R6bm9uamR6Z3R3M3R6bm9uaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v2p6pS3G4VjG0/giphy.gif" width="250"/>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R3M3R6bm9uamR6Z3R3M3R6bm9uamR6Z3R3M3R6bm9uaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v2p6pS3G4VjG0/giphy.gif" width="250" alt="Character Gif" />
     </td>
   </tr>
 </table>

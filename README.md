@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## ⚙️ &nbsp;`$ ls tech_stack/`
+## ⚙️ &nbsp;`tech_stack/`
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🌐 &nbsp;`$ htop --activity`
+## 🌐 &nbsp;`htop --activity`
 
 <div align="center">
 

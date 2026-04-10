@@ -11,9 +11,8 @@
 
 I am a 2nd-year CSE student at **IUT** driven by a simple idea: the best way to understand a system is to build it from scratch. Whether it’s architecting a neural network or sculpting a 3D world, I love the process of turning raw ideas into functional reality.
 
--  **The Logic Side:** Deep Diving into AI/ML architectures, competitive programming in C++, and refining the "why" behind every model.
+-  **The Logic Side:** Deep Diving into AI/ML architectures, competitive programming in C++, robotics and refining the "why" behind every model.
 -  **The Creative Side:** Exploring the limits of Unreal Engine 5 and Blender, merging technical logic with visual storytelling.
--  **Currently:** Serving as a **Sub-Executive (R&D)** at the IUT Robotics Society.
 
 <br clear="right"/>
 

@@ -55,7 +55,11 @@ I am a 2nd-year CSE student at **IUT** driven by a simple idea: the best way to 
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafsan-kabir/)
 [![ArtStation](https://img.shields.io/badge/ARTSTATION-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/xt60rk)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafsantaaseen42@gmail.com)
+
+
+---
+
+##**You can also email me through : rafsantaaseen42@gmail.com**
 
 ---
 

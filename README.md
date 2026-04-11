@@ -59,7 +59,7 @@ I am a 2nd-year CSE student at **IUT** driven by a simple idea: the best way to 
 
 ---
 
-##**You can also email me through: rafsantaaseen42@gmail.com**
+**You can also email me through: rafsantaaseen42@gmail.com**
 
 ---
 

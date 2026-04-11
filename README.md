@@ -1,4 +1,4 @@
-# **Ahoy, Pirates! Your Captain, Rafsan Kabir, Speaking :v  All ships on board!** 🏴‍☠️
+# **Ahoy, Pirates! Your Captain, Rafsan Kabir, Speaking ! All ships on board!** 🏴‍☠️
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KraKEn-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=050a0e&title_color=00d4ff&icon_color=7c3aed&text_color=e2e8f0" height="170"/>
